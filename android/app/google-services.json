@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "653618063558",
+    "project_id": "carpacking-597b1",
+    "storage_bucket": "carpacking-597b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653618063558:android:671cd57de5f93ede0ccfc7",
+        "android_client_info": {
+          "package_name": "com.johnjava.cardscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653618063558-udl1gbf7hekev05g7gbq2s5fm2dh73ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsZ4bmQpYgKKgsmME5fXfXu25Jph5cEX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653618063558-udl1gbf7hekev05g7gbq2s5fm2dh73ro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653618063558-k7n8feud8k64nvd50glasdmifle4erpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cardscanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
